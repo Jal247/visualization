@@ -9,17 +9,26 @@
         ```
 For visualization 1: Good visualization
 
+**Accessibility**: 
+The visualization is clear and well-structured but may be inaccessible to individuals with colour blindness due to its reliance on red-green colour coding. Lack of alt-text also limits access for screen reader users.
+
+**Reproducibility**:
+It is likely reproducible using common tools like Power BI or Tableau but may be limited if the data sources or design process are not documented. Proprietary tools might also restrict reproducibility for some users.
+
+**Equity**:
+The visualization provides a logical layout and multiple formats, but missing benchmarks or contextual explanations can hinder equitable understanding. High costs of proprietary tools could also create barriers.
+
 
 
 For visualization 2: Bad visualization
 
-Accessibility:
+**Accessibility**:
 The gauge visualization is not fully accessible. It may not be usable for individuals with color blindness, as it likely relies on color alone (e.g., red for negative and green for positive), which can be difficult for some users to distinguish. Additionally, the text size and contrast might not be optimal for people with visual impairments. Without alternative descriptions (alt-text), users relying on screen readers would struggle to understand the data.
 
-Reproducibility:
+**Reproducibility**:
 The visualization may not be easily reproducible for all users, especially if it is built using specific tools like Power BI or Tableau. Without clear documentation of the data, design process, and methodology, it would be challenging for others to recreate the visualization with the same dataset.
 
-Equity:
+**Equity**:
 The gauge may not be equitable because it lacks sufficient context or benchmarks to help users understand what the data means. Users without access to supplementary context or knowledge may misinterpret the data. Additionally, if the tools used to create the visualization are not widely accessible or affordable, some users may be excluded from creating or interpreting similar visualizations.
 
 
@@ -34,7 +43,22 @@ The gauge may not be equitable because it lacks sufficient context or benchmarks
         ```
         Your answer...
 For visualization 1: Good visualization
+To make the data visualization more accessible, reproducible, and equitable:
 
+1. For Accessibility:
+     - Use colourblind-friendly palettes,
+     - add patterns alongside colours,
+     - include alt-text,
+     - incorporate interactive elements for better clarity.
+2. For Reproducibility:
+     - Document the data sources,
+     - design tools,
+     - and methodology.
+     - Provide reusable templates or open formats to enhance reproducibility.
+4. For Equity:
+     - Add benchmarks and comparative insights to help users interpret values effectively.
+     - Offer the visualization in alternative formats (e.g., text summaries or tables) and
+     - ensure affordable or open access to tools and data.
 
         
 For visualization 2: Bad visualization
