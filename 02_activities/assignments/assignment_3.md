@@ -7,7 +7,10 @@
 - For each visualization: 
     - Explain (with reference to material covered up to date, along with readings and other scholarly sources, as needed) whether or not you think this data visualization is accessible, reproducible, and equitable. 
         ```
-For visualization 1: Good visualization
+**For visualization 1: Good visualization**
+
+![Good Visualization](https://github.com/user-attachments/assets/7aa50a3b-f848-4eff-ab14-c6dc1090346e)
+
 
 **Accessibility**: 
 The visualization is clear and well-structured but may be inaccessible to individuals with colour blindness due to its reliance on red-green colour coding. Lack of alt-text also limits access for screen reader users.
@@ -20,7 +23,10 @@ The visualization provides a logical layout and multiple formats, but missing be
 
 
 
-For visualization 2: Bad visualization
+**For visualization 2: Bad visualization**
+
+![Bad Visualization](https://github.com/user-attachments/assets/6e55b083-c6dc-4401-bf47-ca2a60cebd4d)
+
 
 **Accessibility**:
 The gauge visualization is not fully accessible. It may not be usable for individuals with color blindness, as it likely relies on color alone (e.g., red for negative and green for positive), which can be difficult for some users to distinguish. Additionally, the text size and contrast might not be optimal for people with visual impairments. Without alternative descriptions (alt-text), users relying on screen readers would struggle to understand the data.
