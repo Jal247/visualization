@@ -4,24 +4,32 @@
 
 ### Requirements:
 - We will finish this class by giving you the chance to use what you have learned in a practical context, by creating data visualizations from raw data. 
-- Choose a dataset of interest from the [City of Toronto’s Open Data Portal](https://www.toronto.ca/city-government/data-research-maps/open-data/) or [Ontario’s Open Data Catalogue](https://data.ontario.ca/). 
+- Choose a dataset of interest from the [City of Toronto’s Open Data Portal](https://www.toronto.ca/city-government/data-research-maps/open-data/) or [Ontario’s Open Data Catalogue](https://data.ontario.ca/).
+Data link: 
+https://open.toronto.ca/dataset/cultural-festivals-funding-program-recipients/
+  
 - Using Python and one other data visualization software (Excel or free alternative, Tableau Public, any other tool you prefer), create two distinct visualizations from your dataset of choice.
 - Power BI visualization screenshot attached
+- 
 ![Power_Query for Data Cleaning ](https://github.com/user-attachments/assets/79484b0f-6507-449a-8734-e0fa7b83d7ba)
 
 Loading clean data in power BI
+
 ![Loading clean data in to Power BI](https://github.com/user-attachments/assets/11c65a7e-7989-49f0-b440-6196f09631b4)
 
 Creating a visual in Power BI
+
 ![Creating a visuals in Power BI](https://github.com/user-attachments/assets/7b5fd8ce-e75b-459e-bbe5-ba68f8e9f395)
 
 Visual 1:
 Pie Chart and Donut chart 
 
+
 ![Visual1 in Power BI](https://github.com/user-attachments/assets/a02f92b8-3948-42b8-8b58-964e33152760)
 
 Visual 2:
 stacked Bar Chart
+
 ![visual2 in Power BI](https://github.com/user-attachments/assets/4cfe1531-7112-4a42-9cf7-79db3cadfe40)
 
 
