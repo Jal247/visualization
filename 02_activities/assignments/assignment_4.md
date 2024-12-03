@@ -5,23 +5,68 @@
 ### Requirements:
 - We will finish this class by giving you the chance to use what you have learned in a practical context, by creating data visualizations from raw data. 
 - Choose a dataset of interest from the [City of Toronto’s Open Data Portal](https://www.toronto.ca/city-government/data-research-maps/open-data/) or [Ontario’s Open Data Catalogue](https://data.ontario.ca/). 
-- Using Python and one other data visualization software (Excel or free alternative, Tableau Public, any other tool you prefer), create two distinct visualizations from your dataset of choice.  
+- Using Python and one other data visualization software (Excel or free alternative, Tableau Public, any other tool you prefer), create two distinct visualizations from your dataset of choice.
+- Power BI visualization screenshot attached
+![Power_Query for Data Cleaning ](https://github.com/user-attachments/assets/79484b0f-6507-449a-8734-e0fa7b83d7ba)
+
+Loading clean data in power BI
+![Loading clean data in to Power BI](https://github.com/user-attachments/assets/11c65a7e-7989-49f0-b440-6196f09631b4)
+
+Creating a visual in Power BI
+![Creating a visuals in Power BI](https://github.com/user-attachments/assets/7b5fd8ce-e75b-459e-bbe5-ba68f8e9f395)
+
+Visual 1:
+Pie Chart and Donut chart 
+
+![Visual1 in Power BI](https://github.com/user-attachments/assets/a02f92b8-3948-42b8-8b58-964e33152760)
+
+Visual 2:
+stacked Bar Chart
+![visual2 in Power BI](https://github.com/user-attachments/assets/4cfe1531-7112-4a42-9cf7-79db3cadfe40)
+
+
 - For each visualization, describe and justify: 
     > What software did you use to create your data visualization?
 
+For Python coding : I use matplotlib and Plotly for visualization 
+For other I use Power BI and created visuals which are attached as a screen shot. If required I can share the saved PowerBI file.
+
     > Who is your intended audience? 
+    
+    Policy analsyst, stakeholders in cultural development and funding organizations
     
     > What information or message are you trying to convey with your visualization? 
     
+    The bar chart highlights which recepients received the highest funding.  This visualization helps identify the most heavily funded programmes/projects and allows for comparison across receipents.
+    
     > What design principles (substantive, perceptual, aesthetic) did you consider when making your visualization? How did you apply these principles? With what elements of your plots? 
+
+    substantive: Clear labeling of receipents and funding/grant amount
+    perceptal: color-coded bars to improve readability
+    asesthetic: balanced use of color and axis limits for a clean layout.
     
     > How did you ensure that your data visualizations are reproducible? If the tool you used to make your data visualization is not reproducible, how will this impact your data visualization? 
+
+    The Python code file name 'assignment_4.ipynb' is saved under 'participation' folder. Which can use to reproduce the visualization.
     
     > How did you ensure that your data visualization is accessible?  
+
+    Used high contrast colors and clear fonts for better readbility.
     
     > Who are the individuals and communities who might be impacted by your visualization?  
     
+who is impacted: 
+The recipients of the funding and decision-makers who allocate these funds.
+Local communities and cultural organizations who benefit from increased visibility of funding disparities.
+
+    
     > How did you choose which features of your chosen dataset to include or exclude from your visualization? 
+    
+Feature Selection:
+
+Excluded unnecessary details like administrative codes to focus on funding amounts and recipients. Highly focused on grant amount and type of project, project name and benifited wards. Which are the main interest area from the stakeholder point of view.
+By combining Python and Power BI, these visualizations provide a comprehensive view of the dataset while addressing different stakeholder needs effectively.
+
     
     > What ‘underwater labour’ contributed to your final data visualization product?
 
