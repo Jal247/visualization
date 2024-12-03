@@ -5,12 +5,14 @@
 ### Requirements:
 - We will finish this class by giving you the chance to use what you have learned in a practical context, by creating data visualizations from raw data. 
 - Choose a dataset of interest from the [City of Toronto’s Open Data Portal](https://www.toronto.ca/city-government/data-research-maps/open-data/) or [Ontario’s Open Data Catalogue](https://data.ontario.ca/).
+
+
 Data link: 
 https://open.toronto.ca/dataset/cultural-festivals-funding-program-recipients/
   
 - Using Python and one other data visualization software (Excel or free alternative, Tableau Public, any other tool you prefer), create two distinct visualizations from your dataset of choice.
 - Power BI visualization screenshot attached
-- 
+
 ![Power_Query for Data Cleaning ](https://github.com/user-attachments/assets/79484b0f-6507-449a-8734-e0fa7b83d7ba)
 
 Loading clean data in power BI
